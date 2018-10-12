@@ -6,7 +6,10 @@
 * Report generator
 
 ## Basic Commands
-
+Before usage execute
+```
+$ dotnet recover
+```
 ```
 $ dotnet build
 $ dotnet run App
