@@ -8,7 +8,7 @@
 ## Basic Commands
 Before usage execute
 ```
-$ dotnet recover
+$ dotnet restore
 ```
 ```
 $ dotnet build
